@@ -13,14 +13,14 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project (as a part of refreshing basic pandas skills), I was interestested in using Stack Overflow data from 2022 to better understand:
+For this project (as a part of refreshing basic data science skills for an internship), I was interestested in using Stack Overflow data from 2022 to better understand:
 
 1. How other developers suggested breaking into the field (what education to pursue)?
 
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above question.  The notebook only contains very basic data exploration and cleaning activities. 
+There is only 1 notebook available here to showcase work related to the above question.  The notebook only contains very basic data exploration and cleaning activities. 
 
 
 ## Results<a name="results"></a>
